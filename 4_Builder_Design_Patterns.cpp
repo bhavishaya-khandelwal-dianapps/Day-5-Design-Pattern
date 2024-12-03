@@ -1,0 +1,2 @@
+//? Builder Design Patterns -> It is a creational design pattern, okay so, whenever we are building a complex object which has a lot of configurations in it, we use Builder Design Pattern. 
+//* Think of building a house. Instead of buying a pre-made house, you hire a builder who constructs the house step by step (foundation, walls, roof, etc.). You can customize different aspects of the house (number of rooms, types of windows, flooring), but the builder follows a consistent process.
